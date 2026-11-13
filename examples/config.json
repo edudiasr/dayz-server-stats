@@ -1,0 +1,9 @@
+{
+    "version": 1,
+    "killfeed": true,
+    "killfeedFormat": "%1 matou %2 com %3 a %4 m",
+    "killfeedHeadshot": " (headshot)",
+    "writeKillLog": true,
+    "saveIntervalSec": 60,
+    "leaderboardSize": 10
+}

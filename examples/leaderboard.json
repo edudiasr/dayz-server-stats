@@ -1,0 +1,35 @@
+{
+    "updated": "2026-11-13T21:45:00Z",
+    "top": [
+        {
+            "rank": 1,
+            "id": "76561190000000001",
+            "name": "Lobo",
+            "kills": 3,
+            "deaths": 1,
+            "kd": 3.0,
+            "headshots": 1,
+            "longestKill": 182.4
+        },
+        {
+            "rank": 2,
+            "id": "76561190000000002",
+            "name": "Corvo",
+            "kills": 1,
+            "deaths": 2,
+            "kd": 0.5,
+            "headshots": 1,
+            "longestKill": 655.1
+        },
+        {
+            "rank": 3,
+            "id": "76561190000000003",
+            "name": "Raposa",
+            "kills": 1,
+            "deaths": 1,
+            "kd": 1.0,
+            "headshots": 0,
+            "longestKill": 412.9
+        }
+    ]
+}
